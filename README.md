@@ -1,6 +1,6 @@
 ![logo](https://github.com/JunaidAbbas517/JunaidAbbas517/blob/main/Junaid%20abbas%20banner1.png)
 <h1 align="center">Hi 👋, I'm Junaid Abbas</h1>
-<h3 align="center">A passionate flutter developer from pakistan</h3>
+<h3 align="center">A passionate Application developer from pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=junaidabbas517&label=Profile%20views&color=0e75b6&style=flat" alt="junaidabbas517" /> </p>
 
