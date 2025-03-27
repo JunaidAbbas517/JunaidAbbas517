@@ -16,7 +16,6 @@
 
 - 💬 Ask me about **Flutter, Dart, Firebase, REST APIs, Getx, Provider, MVVM**
 
-- 📫 How to reach me **junaidabbas.pk92@gmail.com**
 
 - ⚡ Fun fact **I am Funny**
 
