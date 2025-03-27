@@ -1,4 +1,4 @@
-![logo](https://github.com/JunaidAbbas517/JunaidAbbas517/blob/main/Junaid%20abbas%20banner1.png)
+![logo](https://github.com/JunaidAbbas517/JunaiAbbas517/blob/main/Junaid%20abbas%20banner1.png)
 <h1 align="center">Hi 👋, I'm Junaid Abbas</h1>
 <h3 align="center">A passionate Application developer from pakistan</h3>
 
